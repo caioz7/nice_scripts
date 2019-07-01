@@ -8,9 +8,9 @@
 # author: https://github.com/caioz7                                             #
 #                                                                               #
 # Need whois installed:                                                         #
-# yum install whois		#RHEL/CentOS                                            #
-# dnf install whois		#Fedora 22+                                             #
-# apt install whois	    #Debian/Ubuntu                                          #
+# yum install whois     #RHEL/CentOS                                            #
+# dnf install whois     #Fedora 22+                                             #
+# apt install whois     #Debian/Ubuntu                                          #
 #################################################################################
 #set -x
 
